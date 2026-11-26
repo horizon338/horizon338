@@ -13,7 +13,7 @@
 
 * [PROJECT_A](https://github.com/org/project-a) contributor.
 * [PROJECT_B](https://github.com/org/project-b) team member.
-* [PROJECT_C](https://github.com/horizon338/unity_game) project author.
+* [UNITY_GAME](https://github.com/horizon338/unity_game) project author.
 
 ---
 
