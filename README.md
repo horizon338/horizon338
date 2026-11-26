@@ -44,13 +44,3 @@
 | [project-b](https://github.com/your-username/project-b) | 一句话:解决什么问题 | Docker · Redis |
 | [project-c](https://github.com/your-username/project-c) | 一句话:解决什么问题 | TypeScript |
 
-## GitHub 统计
-
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent&hide_border=true&locale=cn)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=transparent&hide_border=true)
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat-square&label=Visitors)
-
-</div>
