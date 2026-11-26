@@ -1,13 +1,13 @@
 ### I'm YOUR_NAME
 
-* come from YOUR_CITY, China. 🌱🌱🌱
-* currently living in YOUR_CITY. 🔰🔰🔰
+* come from Hangzhou, China. 🌱🌱🌱
+* currently living in Hangzhou. 🔰🔰🔰
 * a fanatical open-source enthusiast. 🚀🚀🚀
 
 ### Education
 
 * YOUR_HIGH_SCHOOL
-* YOUR_UNIVERSITY - YOUR_MAJOR
+* Hangzhou Normal University - computer
 
 ### I'm working for
 
