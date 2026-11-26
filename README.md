@@ -6,9 +6,9 @@
 
 用代码把想法变成能跑的东西。
 
-[![Email](https://img.shields.io/badge/you@example.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Email](https://img.shields.io/badge/you@example.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](horizon.wjp@outlook.com)
 [![Blog](https://img.shields.io/badge/Blog-your.site-0EA5E9?style=flat-square&logo=rss&logoColor=white)](https://your.site)
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/horizon338)
 
 </div>
 
